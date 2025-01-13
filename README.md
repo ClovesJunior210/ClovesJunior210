@@ -1,16 +1,31 @@
-## Hi there 👋
+## Olá, meu nome é Cloves Júnior 👋
 
-<!--
-**ClovesJunior210/ClovesJunior210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 **Iniciante em C#**
+- 🪴 Explorando o universo da programação.
 
-Here are some ideas to get you started:
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <img align="center" alt="Cloves-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  </div>
+  <img align="right" alt="Gato" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="150">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ClovesJunior210&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClovesJunior210&layout=compact&theme=github_dark" />
+</div>
+
+---
+
+### Conecte-se comigo 🌐
+
+<div>
+  <a href="https://www.instagram.com/Cjr_210/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:clovesjrcode@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
