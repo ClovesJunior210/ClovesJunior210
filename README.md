@@ -1,11 +1,13 @@
 ## Olá, meu nome é Cloves Júnior 👋
 
-- 🌱 **Iniciante em C#**
+- 🍃 **intermediario em C#**
+- 🌱 **iniciante em Python**
 - 🪴 Explorando o universo da programação.
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
     <img align="center" alt="Cloves-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Cloves-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
   <img align="right" alt="Gato" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="150">
 </div>
