@@ -1,14 +1,14 @@
-## Olá, meu nome é Cloves Júnior 👋
+## Olá, eu sou o Cloves Júnior 👋
 
-- Aprendo a ser fullstock
+Desenvolvedor em formação.  
+Estudo para me tornar **fullstack**, começando pelo básico bem-feito: HTML, CSS e JavaScript.
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <img align="center" alt="Cloves-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg">
-    <img align="center" alt="Cloves-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg">
-    <img align="center" alt="Cloves-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  </div>
-  <img align="right" alt="Gato" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="150">
+Gosto de aprender no meu ritmo, criar coisas úteis e evoluir um pouco a cada projeto.
+
+<div style="display: flex; gap: 10px; margin-top: 10px;">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 
 ---
@@ -20,13 +20,13 @@
 
 ---
 
-### Conecte-se comigo 🌐
+### Contato
 
 <div>
   <a href="https://www.instagram.com/Cjr_210/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:clovesjrcode@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
